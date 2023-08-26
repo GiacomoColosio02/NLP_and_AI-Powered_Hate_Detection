@@ -1,5 +1,5 @@
 ### NLP_and_AI-Powered_Hate_Detection
-This is the notebook for the NLP project of the group composed Colosio Giacomo. The project is a text classification task on the dataset 'https://github.com/t-davidson/hate-speech-and-offensive-language'. This is a collection of offensive and hate tweets, which were all manually labeled by CrowdFlower users, which voted them as:
+This is the notebook for the NLP project of Colosio Giacomo. The project is a text classification task on the dataset 'https://github.com/t-davidson/hate-speech-and-offensive-language'. This is a collection of offensive and hate tweets, which were all manually labeled by CrowdFlower users, which voted them as:
 
 hate speech (0);
 offensive language (1);
